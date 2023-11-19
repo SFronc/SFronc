@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**SFronc/SFronc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**SFronc/SFronc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 2d unity game.
 - 🌱 I’m currently learning c# and c.
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
