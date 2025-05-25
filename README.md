@@ -3,10 +3,7 @@
 <!--**SFronc/SFronc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 https://sfronc.github.io/  
-  
-Link do [Fork](https://github.com/SFronc/gaussian-grouping.git)  
 
-Link do [Papers with code](https://paperswithcode.com/paper/gaussian-grouping-segment-and-edit-anything)  
 
 - 🔭 I’m currently working on Java Interpreter using ANTLR4.
 - 🌱 I’m currently learning c# and Spring Boot framework.
